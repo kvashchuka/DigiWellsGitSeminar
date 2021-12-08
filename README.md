@@ -13,3 +13,6 @@
 
 1. Register on GitHub.
 2. Comment on the issue.
+
+# List of participants
+1. Anna
